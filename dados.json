@@ -1,0 +1,17 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nome": "Israel",
+        "email": "israel@fiap.com.br",
+        "senha": "fiap123"
+      },
+      {
+        "id": 2,
+        "nome": "Francisco",
+        "email": "francisco@fiap.com.br",
+        "senha": "fiap123"
+      }
+    ]
+  }
+  
