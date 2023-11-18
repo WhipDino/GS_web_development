@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nome": "Francisco",
+        "email": "francisco@fiap.com.br",
+        "senha": "fiap123"
+      }
+    ]
+  }
+  
