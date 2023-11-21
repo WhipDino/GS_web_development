@@ -6,6 +6,8 @@
 - Após baixar ou clonar o repositório, acesse a pasta do projeto pelo terminal e digite 'npm install'
 - Agora no mesmo terminal digite 'npm install json-server' e depois digite 'npm run json-server'.
 - Logo em seguida, abra outro terminal, acesse o diretório do projeto novamente e digite 'npm start'
+ 
+## Talvez seja necessário dar um npm uninstall node-sass e depois um npm install sass para instalar todas dependências.
 
 ## Lembrando que se o Json-Server não for iniciado não será possível fazer a verificação de login.
 
